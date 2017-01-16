@@ -1,0 +1,29 @@
+{
+  "name": "reptile",
+  "version": "1.0.0",
+  "description": "modle's reptile ",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModleIory/reptile.git"
+  },
+  "keywords": [
+    "reptile",
+    "for",
+    "future"
+  ],
+  "author": "modle_sherlock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ModleIory/reptile/issues"
+  },
+  "homepage": "https://github.com/ModleIory/reptile#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "mongoose": "^4.7.6",
+    "superagent": "^3.3.2"
+  }
+}
